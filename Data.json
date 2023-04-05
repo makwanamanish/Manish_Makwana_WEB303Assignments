@@ -1,0 +1,50 @@
+[   
+  {        
+    "firstName": "Jon",        
+    "lastName": "Snow",        
+    "title": "King in the North",        
+    "house": "Stark",        
+    "allegiance": "The North",       
+     "weapon": "Longclaw"    
+  },    
+  {        
+    "firstName": "Daenerys",        
+    "lastName": "Targaryen",        
+    "title": "Queen of the Andals and the First Men",       
+    "house": "Targaryen",        
+    "allegiance": "Targaryen",       
+    "weapon": "Dragons"    
+  },   
+  {        
+    "firstName": "Tyrion",        
+    "lastName": "Lannister",        
+    "title": "Hand of the Queen",        
+    "house": "Lannister",        
+    "allegiance": "Targaryen",        
+    "weapon": "Wits"    
+  },    
+  {        
+    "firstName": "Arya",        
+    "lastName": "Stark",        
+    "title": "Faceless Man",        
+    "house": "Stark",        
+    "allegiance": "Stark",        
+    "weapon": "Needle"    
+  },    
+  {        
+    "firstName": "Cersei",        
+    "lastName": "Lannister",        
+    "title": "Queen of the Seven Kingdoms",        
+    "house": "Lannister",        
+    "allegiance": "Lannister",        
+    "weapon": "Political power"    
+  },    
+  {        
+    "firstName": "Jaime",        
+    "lastName": "Lannister",        
+    "title": "Commander of the Lannister armies",        
+    "house": "Lannister",        
+    "allegiance": "Lannister",        
+    "weapon": "Sword"    
+  }
+]
